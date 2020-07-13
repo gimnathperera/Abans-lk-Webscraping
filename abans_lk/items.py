@@ -13,5 +13,7 @@ class AbansLkItem(scrapy.Item):
     product_price = scrapy.Field()
     product_model = scrapy.Field()
     product_data = scrapy.Field()
-    pass
+    product_old_price = scrapy.Field()
+    
+   
     pass

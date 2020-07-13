@@ -31,12 +31,13 @@ class AbansSpider(scrapy.Spider):
         product_price = response.css('#item_price::text').get()
         product_model = response.css('.modal-no::text').get()
         product_data = response.css('strong::text').get()
-        
+        product_old_price = response.css('#product > div.primary-box.row.all-details > div.pb-right-column.col-xs-12.col-md-5.col-sm-12.detail-con-padding > div.row > div > div.old-price::text').extract()[1].strip('\n')     
         newProduct = AbansLkItem()
 
         newProduct['product_name'] = product_name
         newProduct['product_price'] = product_price
         newProduct['product_model'] = product_model
         newProduct['product_data'] = product_data
+        newProduct['product_old_price'] = product_old_price
 
         yield newProduct
