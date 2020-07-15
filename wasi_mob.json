@@ -1,0 +1,788 @@
+[
+  {
+    "product_name": "Huawei P40 Pro",
+    "product_price": "151,784.10",
+    "product_discount": "3%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Huawei-P40-Pro-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A21s",
+    "product_price": "38,691.00",
+    "product_discount": "61%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/07/Samsung-Galaxy-A21s-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy M31",
+    "product_price": "50,391.00",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Samsung-Galaxy-M31-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy M21",
+    "product_price": "37,791.00",
+    "product_discount": "15%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Samsung-Galaxy-M21-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "OnePlus 8 \u2013 8GB 128GB",
+    "product_price": "124,199.10",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/OnePlus-8-8GB-128GB-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "OnePlus 8 \u2013 12GB 256GB",
+    "product_price": "134,999.10",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/OnePlus-8-8GB-128GB-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Apple Watch Series 5 44mm Silver Aluminum Case with Nike Sport Band",
+    "product_price": "102,509.10",
+    "product_discount": "3%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Apple-Watch-Series-5-44mm-Silver-Aluminum-Case-with-Nike-Sport-Band-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Huawei Y5p",
+    "product_price": "17,099.10",
+    "product_discount": "15%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Huawei-Y5p-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Huawei Y6p",
+    "product_price": "27,228.60",
+    "product_discount": "1%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Huawei-Y6p-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A01",
+    "product_price": "21,141.00",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Samsung-Galaxy-A01-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Vivo Y12",
+    "product_price": "29,879.10",
+    "product_discount": "15%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Vivo-Y12-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Vivo Y19",
+    "product_price": "37,079.10",
+    "product_discount": "55%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Vivo-Y19-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Vivo V17 Pro",
+    "product_price": "78,569.10",
+    "product_discount": "46%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Vivo-V17-Pro-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy M11",
+    "product_price": "29,331.00",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Samsung-Galaxy-M11-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Vivo Y11",
+    "product_price": "26,279.10",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Vivo-Y11-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy S20",
+    "product_price": "190,124.10",
+    "product_discount": "61%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/02/Samsung-Galaxy-S20-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy S20 Plus",
+    "product_price": "219,959.10",
+    "product_discount": "15%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/02/Samsung-Galaxy-S20-Plus-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Vivo Y15",
+    "product_price": "31,679.10",
+    "product_discount": "15%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Vivo-Y15-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Oppo A1k",
+    "product_price": "23,579.10",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Oppo-A1k-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Huawei Nova 7i",
+    "product_price": "45,899.10",
+    "product_discount": "2%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/03/Huawei-nova-7i-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Note10 Lite",
+    "product_price": "91,979.10",
+    "product_discount": "36%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/02/Samsung-Galaxy-Note10-Lite-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Oppo A5 2020",
+    "product_price": "35,207.10",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Oppo-A5-2020-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Oppo A9 2020",
+    "product_price": "48,707.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Oppo-A9-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy M01",
+    "product_price": "22,761.00",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Samsung-Galaxy-M01-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy S20 Ultra",
+    "product_price": "263,926.80",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/02/Samsung-Galaxy-S20-Ultra-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Z Flip",
+    "product_price": "264,591.00",
+    "product_discount": "15%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/06/Samsung-Galaxy-Z-Flip-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy J2 Core 2020",
+    "product_price": "16,699.50",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/07/Samsung-Galaxy-J2-Core-2020-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A71",
+    "product_price": "80,499.60",
+    "product_discount": "8%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/02/Samsung-Galaxy-A71-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone SE 2020 \u2013 128GB",
+    "product_price": "107,504.10",
+    "product_discount": "11%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/07/Apple-iPhone-SE-2020-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A51",
+    "product_price": "63,171.00",
+    "product_discount": "43%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/02/Samsung-Galaxy-A51-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A30s",
+    "product_price": "40,499.10",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/Samsung-Galaxy-A30s-433x325.jpg"
+  },
+  {
+    "product_name": "OnePlus 7T \u2013 8GB RAM 128GB",
+    "product_price": "87,749.10",
+    "product_discount": "15%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/OnePlus-7T-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "OnePlus 7T \u2013 8GB RAM 256GB",
+    "product_price": "105,569.10",
+    "product_discount": "20%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/OnePlus-7T-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A11",
+    "product_price": "27,621.00",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/07/Samsung-Galaxy-A11-433\u00d7325-01.jpg"
+  },
+  {
+    "product_name": "Google Pixel 4",
+    "product_price": "145,799.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/Google-Pixel-4-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone SE 2020 \u2013 64GB",
+    "product_price": "96,029.10",
+    "product_discount": "10%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/07/Apple-iPhone-SE-2020-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Google Pixel 4 XL 64GB",
+    "product_price": "162,899.10",
+    "product_discount": "43%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/Google-Pixel-4-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A50s",
+    "product_price": "53,000.10",
+    "product_discount": "3%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/Samsung-Galaxy-A50s-433x325.jpg"
+  },
+  {
+    "product_name": "Google Pixel 4 XL 128GB",
+    "product_price": "181,799.10",
+    "product_discount": "43%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/Google-Pixel-4-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Apple AirPods Pro",
+    "product_price": "54,449.10",
+    "product_discount": "36%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Apple-AirPods-Pro-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 11 Pro Max \u2013 512GB",
+    "product_price": "265,499.10",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-Max-64GB-433x325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Redmi Note 8 128GB",
+    "product_price": "33,479.10",
+    "product_discount": "36%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Xiaomi-Redmi-Note-8-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Mi A3 128GB",
+    "product_price": "31,229.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Xiaomi-Mi-A3-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Mi A3 64GB",
+    "product_price": "27,809.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Xiaomi-Mi-A3-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A20s 32GB 3GB RAM",
+    "product_price": "36,899.10",
+    "product_discount": "43%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Samsung-Galaxy-A20s-433\u00d7325-1.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A20s 64GB 4GB RAM",
+    "product_price": "37,791.00",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Samsung-Galaxy-A20s-433\u00d7325-1.jpg"
+  },
+  {
+    "product_name": "Apple Watch Series 5 44mm Gold Aluminum Case Pink Sand Sport Band",
+    "product_price": "98,504.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/Apple-Watch-Series-5-44mm-Gold-Aluminum-Case-Pink-Sand-Sport-Band-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Redmi Note 8 64GB",
+    "product_price": "36,899.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Xiaomi-Redmi-Note-8-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Redmi Go Company Warranty 8GB",
+    "product_price": "12,959.10",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/06/Xiaomi-Redmi-Go-433x325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Mi 9 64Gb",
+    "product_price": "62,549.10",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/07/Xiaomi-Mi-9-128Gb-433X325.jpg"
+  },
+  {
+    "product_name": "Huawei Y9 Prime",
+    "product_price": "35,999.10",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/07/Huawei-Y9-Prime-433x325.jpg"
+  },
+  {
+    "product_name": "Nokia 2.2 \u2013 16GB",
+    "product_price": "16,874.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/07/Nokia-2-2-433\u00d7325-1-1.jpg"
+  },
+  {
+    "product_name": "Nokia 1 Plus",
+    "product_price": "14,470.20",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/07/Nokia-1-Plus-433x325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 7 \u2013 128GB Company Warranty",
+    "product_price": "78,299.10",
+    "product_discount": "6%",
+    "product_image": null
+  },
+  {
+    "product_name": "Nokia 2.2 \u2013 32GB",
+    "product_price": "19,664.10",
+    "product_discount": "55%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/07/Nokia-2-2-433\u00d7325-1-1.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Note 10 Plus 512GB",
+    "product_price": "188,729.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/08/Samsung-Galaxy-Note10-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Watch 42MM \u2013 Bluetooth",
+    "product_price": "39,149.10",
+    "product_discount": null,
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/08/Samsung-Galaxy-Watch-42MM-433x325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Buds",
+    "product_price": "19,502.10",
+    "product_discount": "17%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/08/Samsung-Galaxy-Buds-433x325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Note 10 Plus \u2013 256GB",
+    "product_price": "168,999.30",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/08/Samsung-Galaxy-Note10-433\u00d7325-1.jpg"
+  },
+  {
+    "product_name": "OnePlus 7 \u2013 12GB RAM 256GB",
+    "product_price": "92,699.10",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/OnePlus-7-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Redmi Airdots",
+    "product_price": "4,949.10",
+    "product_discount": "36%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Redmi-Airdots-1-433x325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 7 Plus 128GB Black Company Warranty",
+    "product_price": "96,299.10",
+    "product_discount": "33%",
+    "product_image": null
+  },
+  {
+    "product_name": "Xiaomi Redmi Note 7 \u2013 64GB Company Warranty",
+    "product_price": "28,799.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/04/Xiaomi-Redmi-Note-7-Black-433x325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 11 \u2013 64GB",
+    "product_price": "152,989.20",
+    "product_discount": "8%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-iPhone-11-64GB-433x325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Note 10 \u2013 256GB",
+    "product_price": "136,799.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/08/Samsung-Galaxy-Note10-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 11 \u2013 128GB",
+    "product_price": "164,501.10",
+    "product_discount": "9%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-iPhone-11-128GB-433x325.jpg"
+  },
+  {
+    "product_name": "Nokia 4.2",
+    "product_price": "27,557.10",
+    "product_discount": "46%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/08/Nokia-4-2-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Mi 9T Company Warranty 128Gb",
+    "product_price": "55,799.10",
+    "product_discount": "36%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/07/Xiaomi-Mi-9T-128Gb-433x325-1.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 11 \u2013 256GB",
+    "product_price": "188,099.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-iPhone-11-256GB-433x325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 11 Pro \u2013 64GB",
+    "product_price": "214,199.10",
+    "product_discount": "7%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-64GB-433x325.jpg"
+  },
+  {
+    "product_name": "Nokia 3.1",
+    "product_price": "18,449.10",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2018/09/Nokia-3-1-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Nokia 2.1",
+    "product_price": "13,049.10",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2018/09/Nokia-2-1-433\u00d7325-.jpg"
+  },
+  {
+    "product_name": "Apple iPhone XR 64GB Company Warranty",
+    "product_price": "142,559.10",
+    "product_discount": "23%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple iPhone XS 64GB Company Warranty",
+    "product_price": "197,099.10",
+    "product_discount": "55%",
+    "product_image": null
+  },
+  {
+    "product_name": "Xiaomi Mi A2 Company Warranty",
+    "product_price": "31,499.10",
+    "product_discount": "43%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple iPhone XR 256GB Company Warranty",
+    "product_price": "170,059.50",
+    "product_discount": "6%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple iPhone XS Max 64GB Company Warranty",
+    "product_price": "177,776.10",
+    "product_discount": "18%",
+    "product_image": null
+  },
+  {
+    "product_name": "Huawei Y5 Lite 2018",
+    "product_price": "14,849.10",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2018/12/Huawei-Y5-Lite-2018-1-433x325-1.png"
+  },
+  {
+    "product_name": "Nokia 5.1 Plus",
+    "product_price": "27,407.70",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2018/12/Nokia-5-1-Plus-433x325.jpg"
+  },
+  {
+    "product_name": "Huawei Y Max",
+    "product_price": "38,699.10",
+    "product_discount": "18%",
+    "product_image": null
+  },
+  {
+    "product_name": "Nokia 3.1 Plus",
+    "product_price": "23,399.10",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/01/Nokia-3-1-Plus-433x325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy S10 Plus \u2013 128GB Company Warranty",
+    "product_price": "187,199.10",
+    "product_discount": "6%",
+    "product_image": null
+  },
+  {
+    "product_name": "Huawei Y9 \u2013 2019",
+    "product_price": "34,739.10",
+    "product_discount": "1%",
+    "product_image": null
+  },
+  {
+    "product_name": "Xiaomi Pocofone F1 Company Warranty",
+    "product_price": "49,974.30",
+    "product_discount": "36%",
+    "product_image": null
+  },
+  {
+    "product_name": "Huawei Y7 \u2013 2019",
+    "product_price": "29,384.10",
+    "product_discount": "1%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple iPhone 7 Plus \u2013 128GB Black",
+    "product_price": "111,599.10",
+    "product_discount": "20%",
+    "product_image": null
+  },
+  {
+    "product_name": "Xiaomi Redmi 6 Company Warranty",
+    "product_price": "19,529.10",
+    "product_discount": "6%",
+    "product_image": null
+  },
+  {
+    "product_name": "Vivo V15 Pro",
+    "product_price": "65,790.90",
+    "product_discount": "43%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/03/Vivo-V15-Pro-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Nokia 5",
+    "product_price": "28,889.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2017/09/Nokia-5-433x325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 8 \u2013 64GB",
+    "product_price": "94,499.10",
+    "product_discount": "61%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple iPhone X 64GB Company Warranty",
+    "product_price": "164,699.10",
+    "product_discount": "16%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple iPhone 8 Plus \u2013 64GB",
+    "product_price": "115,199.10",
+    "product_discount": "15%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple iPhone X 256GB Company Warranty",
+    "product_price": "177,749.10",
+    "product_discount": "46%",
+    "product_image": null
+  },
+  {
+    "product_name": "Xiaomi Mi A2 Lite Company Warranty 32GB",
+    "product_price": "23,939.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2018/08/Xiaomi-Mi-A2-Lite-433x325.jpg"
+  },
+  {
+    "product_name": "Nokia 2-SDC",
+    "product_price": "13,049.10",
+    "product_discount": "20%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple iPhone 7 32GB Black Company Warranty",
+    "product_price": "68,039.10",
+    "product_discount": "17%",
+    "product_image": null
+  },
+  {
+    "product_name": "Nokia 6.1 Plus",
+    "product_price": "44,009.10",
+    "product_discount": "43%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple AirPods 2 With Wireless Charging Case",
+    "product_price": "36,899.10",
+    "product_discount": "46%",
+    "product_image": null
+  },
+  {
+    "product_name": "Nokia 6.1 64GB \u2013 Black",
+    "product_price": "37,133.10",
+    "product_discount": "33%",
+    "product_image": null
+  },
+  {
+    "product_name": "Apple AirPods 2 With Charging Case",
+    "product_price": "31,499.10",
+    "product_discount": "36%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/04/Apple-AirPods-2-with-Charging-Case-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "OnePlus 7 Pro \u2013 12GB RAM 256GB",
+    "product_price": "125,999.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/05/OnePlus-7-Pro-128GB.jpg"
+  },
+  {
+    "product_name": "Vivo V15",
+    "product_price": "51,299.10",
+    "product_discount": "5%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/04/Vivo-V15-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Watch 46MM \u2013 Bluetooth",
+    "product_price": "42,299.10",
+    "product_discount": "61%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/05/Samsung-Galaxy-Watch-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Huawei Smart Watch \u2013 GT",
+    "product_price": "26,099.10",
+    "product_discount": "43%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/03/Huawei-Smart-Watch-GT02-433x325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Mi 9 SE 128GB",
+    "product_price": "54,809.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/06/Xiaomi-Mi-9-SE-64GB-Company-Warranty433x325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Redmi Go Company Warranty 16 GB",
+    "product_price": "13,383.90",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/06/Xiaomi-Redmi-Go-433x325.jpg"
+  },
+  {
+    "product_name": "Huawei Y5 2019",
+    "product_price": "18,899.10",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/06/Huawei-Y5-2019-433x325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A80",
+    "product_price": "67,229.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/07/Samsung-Galaxy-A80-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "OnePlus 7 Pro \u2013 8GB RAM 256GB",
+    "product_price": "105,499.80",
+    "product_discount": "61%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/05/OnePlus-7-Pro-128GB.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 11 Pro \u2013 256GB",
+    "product_price": "249,299.10",
+    "product_discount": "5%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-256GB-433x325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 11 Pro Max \u2013 64GB",
+    "product_price": "249,299.10",
+    "product_discount": "4%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-Max-64GB-433x325.jpg"
+  },
+  {
+    "product_name": "Apple iPhone 11 Pro Max \u2013 256GB",
+    "product_price": "262,349.10",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-iPhone-11-Pro-Max-256GB-433x325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy S10 Plus \u2013 128GB",
+    "product_price": "129,599.10",
+    "product_discount": "6%",
+    "product_image": null
+  },
+  {
+    "product_name": "Samsung Galaxy A2 Core",
+    "product_price": "15,741.00",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/06/Samsung-Galaxy-A2-Core-433x325.jpg"
+  },
+  {
+    "product_name": "Huawei Nova 5T",
+    "product_price": "61,406.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Huawei-Nova-5T-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Apple Watch Series 5 40mm Space Gray Aluminum Case Black Sport Band",
+    "product_price": "96,569.10",
+    "product_discount": "5%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-Watch-Series-5-40mm-Black-Sport-Band-433x325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy A10s",
+    "product_price": "26,603.10",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Samsung-Galaxy-A10s-433x325.jpg"
+  },
+  {
+    "product_name": "Apple Watch Series 5 44mm Silver Aluminum Case White Sport Band",
+    "product_price": "89,999.10",
+    "product_discount": "15%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Apple-Watch-Series-5-44mm-Silver-Sport-Band-433x325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Redmi Note 8 Pro 64GB",
+    "product_price": "41,399.10",
+    "product_discount": "20%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Redmi-Note-8-Pro433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Vivo S1",
+    "product_price": "42,299.10",
+    "product_discount": "61%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/09/Vivo-S1-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Nokia 7.2 \u2013 Green",
+    "product_price": "54,359.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/10/Nokia-7-2-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Mi A2 Lite Company Warranty 64GB",
+    "product_price": "26,977.50",
+    "product_discount": "6%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2018/08/Xiaomi-Mi-A2-Lite-433x325.jpg"
+  },
+  {
+    "product_name": "Xiaomi Redmi Note 8 Pro 128GB",
+    "product_price": "40,319.10",
+    "product_discount": "58%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/11/Redmi-Note-8-Pro433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Nokia 6.2",
+    "product_price": "41,039.10",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/12/Nokia-6-2-433\u00d7325-1.jpg"
+  },
+  {
+    "product_name": "Nokia 3.2",
+    "product_price": "24,660.00",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/12/Nokia-3-2-433\u00d7325-1.jpg"
+  },
+  {
+    "product_name": "Huawei Y6s",
+    "product_price": "26,009.10",
+    "product_discount": "33%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/01/Huawei-Y6s-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "OnePlus 7T Pro 5G McLaren Edition 12GB 256GB",
+    "product_price": "154,799.10",
+    "product_discount": "20%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/01/OnePlus-7T-Pro-5G-McLaren-Edition-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Note 10 \u2013 256GB",
+    "product_price": "137,699.10",
+    "product_discount": "18%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/08/Samsung-Galaxy-Note10-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Samsung Galaxy Note 10 Plus \u2013 256GB",
+    "product_price": "150,299.10",
+    "product_discount": "16%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2019/08/Samsung-Galaxy-Note10-433\u00d7325-1.jpg"
+  },
+  {
+    "product_name": "OnePlus 7T Pro 8GB 128GB",
+    "product_price": "124,649.10",
+    "product_discount": "46%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/01/OnePlus-7T-Pro-433\u00d7325.jpg"
+  },
+  {
+    "product_name": "Nokia 2.3 \u2013 32GB",
+    "product_price": "21,972.60",
+    "product_discount": "36%",
+    "product_image": "https://www.wasi.lk/wp-content/uploads/2020/01/Nokia-2-3-32GB-433x325-1.jpg"
+  }
+]
