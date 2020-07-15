@@ -14,6 +14,8 @@ class AbansLkItem(scrapy.Item):
     product_model = scrapy.Field()
     product_data = scrapy.Field()
     product_old_price = scrapy.Field()
+    product_image = scrapy.Field()
+    detailed_url = scrapy.Field()
     
    
     pass

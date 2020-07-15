@@ -6,13 +6,12 @@
 import scrapy
 
 
-class WasiItem(scrapy.Item):
+class SoftItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     product_name = scrapy.Field()
-    product_name = scrapy.Field()
     product_price = scrapy.Field()
-    product_discount = scrapy.Field()
+    product_old_price = scrapy.Field()
     product_image = scrapy.Field()
     detailed_url = scrapy.Field()
 

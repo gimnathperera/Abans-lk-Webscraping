@@ -30,6 +30,7 @@ class WasiMobSpider(scrapy.Spider):
         product_price = response.css('.amount::text').get()
         product_discount = response.css('.onsale::text').get()
         product_image =  response.css('div.mf-product-detail > div.woocommerce-product-gallery.woocommerce-product-gallery--with-images.woocommerce-product-gallery--columns-5.images.without-thumbnails > figure > div > a::attr(href)').get() 
+        detailed_url = response.request.url
 
         newProduct = WasiItem()
 
@@ -37,5 +38,6 @@ class WasiMobSpider(scrapy.Spider):
         newProduct['product_price'] = product_price
         newProduct['product_discount'] = product_discount
         newProduct['product_image'] = product_image
+        newProduct['detailed_url'] = detailed_url
 
         yield newProduct
