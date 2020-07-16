@@ -34,6 +34,9 @@ class AbansSpider(scrapy.Spider):
         product_old_price = response.css('#product > div.primary-box.row.all-details > div.pb-right-column.col-xs-12.col-md-5.col-sm-12.detail-con-padding > div.row > div > div.old-price::text').extract()[1].strip('\n')     
         product_image = response.css('#zoom_03::attr(src)').get()
         detailed_url = response.request.url
+        product_old_price = response.css('#product > div.primary-box.row.all-details > div.pb-right-column.col-xs-12.col-md-5.col-sm-12.detail-con-padding > div.row > div > div.old-price::text')
+        if(product_old_price):
+            product_old_price = product_old_price.getall()[1].split('\n')[1].strip() 
 
         newProduct = AbansLkItem()
 
@@ -44,5 +47,6 @@ class AbansSpider(scrapy.Spider):
         newProduct['product_old_price'] = product_old_price
         newProduct['product_image'] = product_image
         newProduct['detailed_url'] = detailed_url
+        newProduct['product_old_price'] = product_old_price
 
         yield newProduct

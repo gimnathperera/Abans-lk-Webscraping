@@ -5,15 +5,8 @@
     "product_model": "Model No: Y91C2020",
     "product_data": "A trendy 6.22-inch Halo FullView\u2122 Display gives Y91C 2020 a further enhanced viewing experience with a screen-to-body ratio of 88.6%, even higher than its predecessor, by redesigning the notch. In addition to a smart design, smart hand gesture controls makes using this large display effortless.\u00a0",
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y91C2020BL/webgd.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y91c2020-blue"
-  },
-  {
-    "product_name": "VIVO Mobile Y12 - Burgundy Red  ",
-    "product_price": "31,990",
-    "product_model": "Model No: Y12",
-    "product_data": "Y12 features a 6.35-inch Halo FullView\u2122 Display with a 19.3:9 aspect ratio. Super narrow bezels on all sides stretch the screen-to-body ratio to 89%, creating a flagship-standard visual impact. Plus, enjoying such a broad view with only one hand is effortless, thanks to specifically designed gesture controls.\u00a0",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y12RD/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y12-red"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y91c2020-blue",
+    "product_old_price": []
   },
   {
     "product_name": "OPPO Mobile Phone A5s 3 GB - Black",
@@ -21,31 +14,17 @@
     "product_model": "Model No: A5S 3GB",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A5S3GBBK/webv.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5s-3gb"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5s-3gb",
+    "product_old_price": []
   },
   {
-    "product_name": "OPPO Mobile Phone A5S 3GB Blue",
-    "product_price": "29,990",
-    "product_model": "Model No: A5S 3GB",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A5S3GBBL/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5s-3gb-blue"
-  },
-  {
-    "product_name": "OPPO Mobile A5S Black",
-    "product_price": "27,990",
-    "product_model": "Model No: A5S",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A5SBK/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5s-black"
-  },
-  {
-    "product_name": "VIVO Mobile Y11 - Agate Red  ",
-    "product_price": "27,990",
-    "product_model": "Model No: Y11",
-    "product_data": "Y11 features a 6.35-inch Halo FullView\u2122 Display with super narrow bezels on all sides. Experience the flagship-standard visual impact, embrace a perfect and boundless horizon.\u00a0",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y11RD/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y11-red"
+    "product_name": "VIVO Mobile Y12 - Burgundy Red  ",
+    "product_price": "31,990",
+    "product_model": "Model No: Y12",
+    "product_data": "Y12 features a 6.35-inch Halo FullView\u2122 Display with a 19.3:9 aspect ratio. Super narrow bezels on all sides stretch the screen-to-body ratio to 89%, creating a flagship-standard visual impact. Plus, enjoying such a broad view with only one hand is effortless, thanks to specifically designed gesture controls.\u00a0",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y12RD/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y12-red",
+    "product_old_price": []
   },
   {
     "product_name": "OPPO Mobile A5S Blue",
@@ -53,7 +32,35 @@
     "product_model": "Model No: A5S",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A5SBL/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5s-blue"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5s-blue",
+    "product_old_price": []
+  },
+  {
+    "product_name": "VIVO Mobile Y11 - Agate Red  ",
+    "product_price": "27,990",
+    "product_model": "Model No: Y11",
+    "product_data": "Y11 features a 6.35-inch Halo FullView\u2122 Display with super narrow bezels on all sides. Experience the flagship-standard visual impact, embrace a perfect and boundless horizon.\u00a0",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y11RD/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y11-red",
+    "product_old_price": []
+  },
+  {
+    "product_name": "OPPO Mobile Phone A5S 3GB Blue",
+    "product_price": "29,990",
+    "product_model": "Model No: A5S 3GB",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A5S3GBBL/web_1.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5s-3gb-blue",
+    "product_old_price": []
+  },
+  {
+    "product_name": "OPPO Mobile A5S Black",
+    "product_price": "27,990",
+    "product_model": "Model No: A5S",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A5SBK/web_1.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5s-black",
+    "product_old_price": []
   },
   {
     "product_name": "VIVO Mobile Y11 - Mineral Blue    ",
@@ -61,7 +68,8 @@
     "product_model": "Model No: Y11",
     "product_data": "Y11 features a 6.35-inch Halo FullView\u2122 Display with super narrow bezels on all sides. Experience the flagship-standard visual impact, embrace a perfect and boundless horizon.\u00a0",
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y11BL/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y11"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y11",
+    "product_old_price": []
   },
   {
     "product_name": "OPPO Mobile Phone A1k - Black ",
@@ -69,7 +77,8 @@
     "product_model": "Model No: A1K",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A1KBK/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a1k-black"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a1k-black",
+    "product_old_price": []
   },
   {
     "product_name": "VIVO Mobile Y11 2020 \u2013 Agate Red ",
@@ -77,7 +86,8 @@
     "product_model": "Model No: Y11 2020",
     "product_data": "Y11 features a 6.35-inch Halo FullView\u2122 Display with super narrow bezels on all sides. Experience the flagship-standard visual impact, embrace a perfect and boundless horizon.\u00a0",
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y112020RD/webgf.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y11-2020"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y11-2020",
+    "product_old_price": []
   },
   {
     "product_name": "OPPO Mobile Phone A1k - Red",
@@ -85,31 +95,8 @@
     "product_model": "Model No: A1K",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A1KRD/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a1k"
-  },
-  {
-    "product_name": "VIVO Mobile Y91C 2020 - Fusion Black  ",
-    "product_price": "21,990",
-    "product_model": "Model No: Y91C2020",
-    "product_data": "A trendy 6.22-inch Halo FullView\u2122 Display gives Y91C 2020 a further enhanced viewing experience with a screen-to-body ratio of 88.6%, even higher than its predecessor, by redesigning the notch. In addition to a smart design, smart hand gesture controls makes using this large display effortless.\u00a0",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y91C2020BK/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y91c2020"
-  },
-  {
-    "product_name": "LG  Phone M400D - Titan Color (Stylus 3)",
-    "product_price": "42,999",
-    "product_model": "Model No: M400D",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/LGPH-M400DTN/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/lg/lg-phone-m400d-titan-color-stylus-3-m400d-lgph-m400dtn"
-  },
-  {
-    "product_name": "VIVO Mobile Y95 5.0\" Smartphone - Starry Night  ",
-    "product_price": "39,990",
-    "product_model": "Model No: Y95",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y95SN/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y95"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a1k",
+    "product_old_price": []
   },
   {
     "product_name": "VIVO Mobile Y12 - Aqua Blue",
@@ -117,7 +104,17 @@
     "product_model": "Model No: Y12",
     "product_data": "Y12 features a 6.35-inch Halo FullView\u2122 Display with a 19.3:9 aspect ratio. Super narrow bezels on all sides stretch the screen-to-body ratio to 89%, creating a flagship-standard visual impact. Plus, enjoying such a broad view with only one hand is effortless, thanks to specifically designed gesture controls.\u00a0",
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y12BL/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y12"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y12",
+    "product_old_price": []
+  },
+  {
+    "product_name": "VIVO Mobile Y91C 2020 - Fusion Black  ",
+    "product_price": "21,990",
+    "product_model": "Model No: Y91C2020",
+    "product_data": "A trendy 6.22-inch Halo FullView\u2122 Display gives Y91C 2020 a further enhanced viewing experience with a screen-to-body ratio of 88.6%, even higher than its predecessor, by redesigning the notch. In addition to a smart design, smart hand gesture controls makes using this large display effortless.\u00a0",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y91C2020BK/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y91c2020",
+    "product_old_price": []
   },
   {
     "product_name": "VIVO Mobile Y19 - Magnetic Black  ",
@@ -125,7 +122,26 @@
     "product_model": "Model No: Y19",
     "product_data": "The 6.53-inch FHD+ Halo FullView\u2122 Display pushes bezels to the limit on all sides, with the front camera nestled beautifully within an elegant notch. Enjoy a 1080 x 2340 super resolution with a screen-to-body ratio of 90.3%, for a flagship visual marvel to immerse yourself in.\u00a0",
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y19BK/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y19"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y19",
+    "product_old_price": []
+  },
+  {
+    "product_name": "VIVO Mobile Y95 5.0\" Smartphone - Starry Night  ",
+    "product_price": "39,990",
+    "product_model": "Model No: Y95",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y95SN/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y95",
+    "product_old_price": []
+  },
+  {
+    "product_name": "LG  Phone M400D - Titan Color (Stylus 3)",
+    "product_price": "42,999",
+    "product_model": "Model No: M400D",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/LGPH-M400DTN/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/lg/lg-phone-m400d-titan-color-stylus-3-m400d-lgph-m400dtn",
+    "product_old_price": []
   },
   {
     "product_name": "VIVO Mobile Y95 5.0\" Smartphone - Nebula Purple  ",
@@ -133,7 +149,8 @@
     "product_model": "Model No: Y95",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y95PU/webv.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y95pu"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y95pu",
+    "product_old_price": []
   },
   {
     "product_name": "VIVO Mobile Y19 - Spring White  ",
@@ -141,7 +158,8 @@
     "product_model": "Model No: Y19",
     "product_data": "The 6.53-inch FHD+ Halo FullView\u2122 Display pushes bezels to the limit on all sides, with the front camera nestled beautifully within an elegant notch. Enjoy a 1080 x 2340 super resolution with a screen-to-body ratio of 90.3%, for a flagship visual marvel to immerse yourself in.\u00a0",
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y19WH/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y19-white"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y19-white",
+    "product_old_price": []
   },
   {
     "product_name": "OPPO Mobile Phone A5 2020 \u2013 Mirror Black",
@@ -149,15 +167,8 @@
     "product_model": "Model No: A5 2020",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A52020BK/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5-2020"
-  },
-  {
-    "product_name": "OPPO Mobile Phone A5 3GB 2020 \u2013 Mirror Black   ",
-    "product_price": "37,990",
-    "product_model": "Model No: A5 2020 3GB",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A52020BK/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5-2020-3gb"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5-2020",
+    "product_old_price": []
   },
   {
     "product_name": "OPPO Mobile Phone A5 2020 \u2013 Dazzel White ",
@@ -165,23 +176,8 @@
     "product_model": "Model No: A5 2020",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A52020WH/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5-2020-white"
-  },
-  {
-    "product_name": "OPPO Mobile Phone A5 3GB 2020 \u2013 Dazzling White ",
-    "product_price": "37,990",
-    "product_model": "Model No: A5 2020 3GB",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A52020WH/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5-2020-3gb-white"
-  },
-  {
-    "product_name": "VIVO Mobile Y15 - Burgundy Red",
-    "product_price": "33,990",
-    "product_model": "Model No: Y15",
-    "product_data": "Y15 features a 6.35-inch Halo FullView\u2122 Display with a 19.3:9 aspect ratio. Super narrow bezels on all sides stretch the screen-to-body ratio to 89%, creating a flagship-standard visual impact. Plus, enjoying such a broad view with only one hand is effortless, thanks to specifically designed gesture controls.",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y15RD/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y15-red"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5-2020-white",
+    "product_old_price": []
   },
   {
     "product_name": "VIVO Mobile Y15 - Aqua Blue",
@@ -189,55 +185,35 @@
     "product_model": "Model No: Y15",
     "product_data": "Y15 features a 6.35-inch Halo FullView\u2122 Display with a 19.3:9 aspect ratio. Super narrow bezels on all sides stretch the screen-to-body ratio to 89%, creating a flagship-standard visual impact. Plus, enjoying such a broad view with only one hand is effortless, thanks to specifically designed gesture controls.",
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y15BL/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y15"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y15",
+    "product_old_price": []
   },
   {
-    "product_name": "OPPO Mobile Phone F15 \u2013 Lightening Black ",
-    "product_price": "64,990",
-    "product_model": "Model No: F-15",
+    "product_name": "VIVO Mobile Y15 - Burgundy Red",
+    "product_price": "33,990",
+    "product_model": "Model No: Y15",
+    "product_data": "Y15 features a 6.35-inch Halo FullView\u2122 Display with a 19.3:9 aspect ratio. Super narrow bezels on all sides stretch the screen-to-body ratio to 89%, creating a flagship-standard visual impact. Plus, enjoying such a broad view with only one hand is effortless, thanks to specifically designed gesture controls.",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-Y15RD/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/y15-red",
+    "product_old_price": []
+  },
+  {
+    "product_name": "OPPO Mobile Phone A5 3GB 2020 \u2013 Dazzling White ",
+    "product_price": "37,990",
+    "product_model": "Model No: A5 2020 3GB",
     "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-F15BK/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/f-15"
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A52020WH/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5-2020-3gb-white",
+    "product_old_price": []
   },
   {
-    "product_name": "OPPO Mobile R17 Pro",
-    "product_price": "64,990",
-    "product_model": "Model No: R17PRO",
+    "product_name": "OPPO Mobile Phone A5 3GB 2020 \u2013 Mirror Black   ",
+    "product_price": "37,990",
+    "product_model": "Model No: A5 2020 3GB",
     "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-R17PRO/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/r17pro"
-  },
-  {
-    "product_name": "VIVO Mobile V11 Pro 6.3\" Smartphone - Stary Night ",
-    "product_price": "59,990",
-    "product_model": "Model No: V11PRO",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V11PROSN/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v11pro"
-  },
-  {
-    "product_name": "OPPO Mobile Phone F15 \u2013 Unicorn White ",
-    "product_price": "64,990",
-    "product_model": "Model No: F-15",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-F15WH/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/f-15-white"
-  },
-  {
-    "product_name": "OPPO Mobile F11 Pro - Aurora Green",
-    "product_price": "55,990",
-    "product_model": "Model No: F11PRO",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-F11PROGR/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/f11pro-green"
-  },
-  {
-    "product_name": "VIVO Mobile S1 PRO - Mystic Black    ",
-    "product_price": "54,990",
-    "product_model": "Model No: S-1 PRO",
-    "product_data": "Starting our style journey from S1, we take the style quotient one step higher. Taking inspirations from fine jewelry and royal palaces, we managed to break away from squares and circles and created a new unique diamond shaped camera panel. The refreshing Diamond design adds a unique symmetry to the finely crafted back panel completing the distinctive look of S1 Pro. The 2 beautiful colors complete the look and make S1Pro the style icon you love to flaunt.",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-S1PROBK/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/s-1-pro"
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A52020BK/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a5-2020-3gb",
+    "product_old_price": []
   },
   {
     "product_name": "VIVO Mobile S1 4GB Skyline Blue  ",
@@ -245,7 +221,44 @@
     "product_model": "Model No: S-1 4GB",
     "product_data": "S1 features Halo FullView\u2122 Display with a high screen-to-body ratio. Its perfect symmetry provides a fantastic visual effect. A 6.38-inch* Super AMOLED Display with a 19.5:9 aspect ratio and the screen-to-body ratio of 89.98% allow you to enjoy a full view without boundaries.\u00a0",
     "product_image": "https://buyabans.com/upload/product/Phone/VVPH-S14GBBL/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/s-1-4gb"
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/s-1-4gb",
+    "product_old_price": []
+  },
+  {
+    "product_name": "OPPO Mobile R17 Pro",
+    "product_price": "64,990",
+    "product_model": "Model No: R17PRO",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-R17PRO/web_1.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/r17pro",
+    "product_old_price": "Rs.99,990"
+  },
+  {
+    "product_name": "OPPO Mobile Phone F15 \u2013 Lightening Black ",
+    "product_price": "64,990",
+    "product_model": "Model No: F-15",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-F15BK/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/f-15",
+    "product_old_price": []
+  },
+  {
+    "product_name": "VIVO Mobile V11 Pro 6.3\" Smartphone - Stary Night ",
+    "product_price": "59,990",
+    "product_model": "Model No: V11PRO",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V11PROSN/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v11pro",
+    "product_old_price": []
+  },
+  {
+    "product_name": "OPPO Mobile Phone F15 \u2013 Unicorn White ",
+    "product_price": "64,990",
+    "product_model": "Model No: F-15",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-F15WH/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/f-15-white",
+    "product_old_price": []
   },
   {
     "product_name": "OPPO Mobile A9 2020 - Marine Green",
@@ -253,31 +266,26 @@
     "product_model": "Model No: A9 2020",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A92020GR/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a9-2020"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a9-2020",
+    "product_old_price": []
   },
   {
-    "product_name": "VIVO Mobile V15 6.53\" Smartphone - Topaz Blue ",
-    "product_price": "50,400",
-    "product_model": "Model No: V15",
-    "product_data": "Embark on an extraordinary visual journey with V15. Its Ultra FullView\u2122 Display achieves a 90.95% screen-to-body ratio that eliminates all obstructions to create the ultimate viewing experience. At the phone\u2019s back, a refreshing color gradient adds to the wonder, with the combination of 3D curves and Spectrum Ripple Design making a bold statement, and delivering on Vivo\u2019s promise to constantly push the limits of smartphone design.\u00a0\u00a0",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V15BL/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v15-blue"
+    "product_name": "VIVO Mobile S1 PRO - Mystic Black    ",
+    "product_price": "54,990",
+    "product_model": "Model No: S-1 PRO",
+    "product_data": "Starting our style journey from S1, we take the style quotient one step higher. Taking inspirations from fine jewelry and royal palaces, we managed to break away from squares and circles and created a new unique diamond shaped camera panel. The refreshing Diamond design adds a unique symmetry to the finely crafted back panel completing the distinctive look of S1 Pro. The 2 beautiful colors complete the look and make S1Pro the style icon you love to flaunt.",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-S1PROBK/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/s-1-pro",
+    "product_old_price": []
   },
   {
-    "product_name": "VIVO Mobile V15 6.53\" Smartphone - Ruby Red",
-    "product_price": "50,400",
-    "product_model": "Model No: V15",
-    "product_data": "Embark on an extraordinary visual journey with V15. Its Ultra FullView\u2122 Display achieves a 90.95% screen-to-body ratio that eliminates all obstructions to create the ultimate viewing experience. At the phone\u2019s back, a refreshing color gradient adds to the wonder, with the combination of 3D curves and Spectrum Ripple Design making a bold statement, and delivering on Vivo\u2019s promise to constantly push the limits of smartphone design.\u00a0",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V15RD/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v15-red"
-  },
-  {
-    "product_name": "OPPO Mobile A9 2020 Space Purple",
-    "product_price": "52,990",
-    "product_model": "Model No: A9 2020",
+    "product_name": "OPPO Mobile F11 Pro - Aurora Green",
+    "product_price": "55,990",
+    "product_model": "Model No: F11PRO",
     "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A92020PU/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a9-2020pu"
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-F11PROGR/web_1.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/f11pro-green",
+    "product_old_price": "Rs.69,990"
   },
   {
     "product_name": "OPPO Mobile F11 Pro - Thunder Black",
@@ -285,39 +293,35 @@
     "product_model": "Model No: F11PRO",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-F11PROBK/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/f11pro"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/f11pro",
+    "product_old_price": "Rs.69,990"
   },
   {
-    "product_name": "VIVO Mobile V17 Pro Crystal Black  ",
-    "product_price": "84,990",
-    "product_model": "Model No: V17PRO",
-    "product_data": "Take masterful photos with a 32MP front camera. Vibrant details make you dazzling and clear, every single time.\u00a0",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V17PROBK/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v17pro"
+    "product_name": "VIVO Mobile V15 6.53\" Smartphone - Ruby Red",
+    "product_price": "50,400",
+    "product_model": "Model No: V15",
+    "product_data": "Embark on an extraordinary visual journey with V15. Its Ultra FullView\u2122 Display achieves a 90.95% screen-to-body ratio that eliminates all obstructions to create the ultimate viewing experience. At the phone\u2019s back, a refreshing color gradient adds to the wonder, with the combination of 3D curves and Spectrum Ripple Design making a bold statement, and delivering on Vivo\u2019s promise to constantly push the limits of smartphone design.\u00a0",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V15RD/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v15-red",
+    "product_old_price": "Rs.59,990"
   },
   {
-    "product_name": "OPPO Mobile Phone Reno 3 - Midnight Black",
-    "product_price": "74,990",
-    "product_model": "Model No: RENO3",
+    "product_name": "OPPO Mobile A9 2020 Space Purple",
+    "product_price": "52,990",
+    "product_model": "Model No: A9 2020",
     "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-RENO3BK/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/reno3-black"
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-A92020PU/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/a9-2020pu",
+    "product_old_price": []
   },
   {
-    "product_name": " OPPO Mobile Phone Reno 3 - Auroral Blue",
-    "product_price": "74,990",
-    "product_model": "Model No: RENO3",
-    "product_data": null,
-    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-RENO3BL/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/reno3"
-  },
-  {
-    "product_name": "VIVO Mobile V15 Pro 6.39\" Smartphone - Topaz Blue",
-    "product_price": "74,990",
-    "product_model": "Model No: V15PRO",
-    "product_data": "Vivo's Ultra FullView\u2122 Display is back with V15Pro. At 16.23cm (6.39), the 19.5:9 Super AMOLED display produces an awe-inspiring visual design, utterly seamless from end-to-end. With the earpiece, light and proximity sensors all concealed from view, the side and top bezels have been reduced to just 1.75mm and 2.22mm respectively, resulting in a maximized screen-to-body ratio of 91.64%. It's the groundbreaking visual experience you've been waiting for.",
-    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V15PROBL/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v15pro"
+    "product_name": "VIVO Mobile V15 6.53\" Smartphone - Topaz Blue ",
+    "product_price": "50,400",
+    "product_model": "Model No: V15",
+    "product_data": "Embark on an extraordinary visual journey with V15. Its Ultra FullView\u2122 Display achieves a 90.95% screen-to-body ratio that eliminates all obstructions to create the ultimate viewing experience. At the phone\u2019s back, a refreshing color gradient adds to the wonder, with the combination of 3D curves and Spectrum Ripple Design making a bold statement, and delivering on Vivo\u2019s promise to constantly push the limits of smartphone design.\u00a0\u00a0",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V15BL/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v15-blue",
+    "product_old_price": "Rs.59,990"
   },
   {
     "product_name": "OPPO Mobile Reno 2F \u2013 Sky White",
@@ -325,7 +329,8 @@
     "product_model": "Model No: RENO2F",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-RENO2FWH/web_1.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/reno2fsw"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/reno2fsw",
+    "product_old_price": "Rs.74,990"
   },
   {
     "product_name": "OPPO Mobile Reno 2F - Lake Green",
@@ -333,6 +338,43 @@
     "product_model": "Model No: RENO2F",
     "product_data": null,
     "product_image": "https://buyabans.com/upload/product/Phone/OPPH-RENO2FGR/web.jpg",
-    "detailed_url": "https://buyabans.com/mobile-phones/oppo/reno2f"
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/reno2f",
+    "product_old_price": "Rs.74,990"
+  },
+  {
+    "product_name": "OPPO Mobile Phone Reno 3 - Midnight Black",
+    "product_price": "74,990",
+    "product_model": "Model No: RENO3",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-RENO3BK/web_1.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/reno3-black",
+    "product_old_price": []
+  },
+  {
+    "product_name": "VIVO Mobile V15 Pro 6.39\" Smartphone - Topaz Blue",
+    "product_price": "74,990",
+    "product_model": "Model No: V15PRO",
+    "product_data": "Vivo's Ultra FullView\u2122 Display is back with V15Pro. At 16.23cm (6.39), the 19.5:9 Super AMOLED display produces an awe-inspiring visual design, utterly seamless from end-to-end. With the earpiece, light and proximity sensors all concealed from view, the side and top bezels have been reduced to just 1.75mm and 2.22mm respectively, resulting in a maximized screen-to-body ratio of 91.64%. It's the groundbreaking visual experience you've been waiting for.",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V15PROBL/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v15pro",
+    "product_old_price": []
+  },
+  {
+    "product_name": "VIVO Mobile V17 Pro Crystal Black  ",
+    "product_price": "84,990",
+    "product_model": "Model No: V17PRO",
+    "product_data": "Take masterful photos with a 32MP front camera. Vibrant details make you dazzling and clear, every single time.\u00a0",
+    "product_image": "https://buyabans.com/upload/product/Phone/VVPH-V17PROBK/web.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/vivo/v17pro",
+    "product_old_price": []
+  },
+  {
+    "product_name": " OPPO Mobile Phone Reno 3 - Auroral Blue",
+    "product_price": "74,990",
+    "product_model": "Model No: RENO3",
+    "product_data": null,
+    "product_image": "https://buyabans.com/upload/product/Phone/OPPH-RENO3BL/web_1.jpg",
+    "detailed_url": "https://buyabans.com/mobile-phones/oppo/reno3",
+    "product_old_price": []
   }
 ]

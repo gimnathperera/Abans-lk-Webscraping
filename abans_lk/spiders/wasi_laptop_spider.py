@@ -10,9 +10,9 @@ class WasiLapSpider(scrapy.Spider):
 
     def parse(self, response):
 
-        detail_links = response.css('.mf-product-details-hover a::attr(href)').getall()
+     
+        detail_links = response.css('div > div.mf-product-details > div.mf-product-details-hover > h2 > a::attr(href)').getall()
         max_pagenumber = 5
-
         for link in detail_links:
             yield scrapy.Request(
                 response.urljoin(link),
@@ -31,14 +31,20 @@ class WasiLapSpider(scrapy.Spider):
         product_discount = response.css('.onsale::text').get()
         product_image =  response.css('div.mf-product-detail > div.woocommerce-product-gallery.woocommerce-product-gallery--with-images.woocommerce-product-gallery--columns-5.images.without-thumbnails > figure > div > a::attr(href)').get() 
         detailed_url = response.request.url
-       
         
-        newProduct = WasiItem()
+        #Checking whether the scraped data is a laptop or not
+        if(product_name.find('Laptop')>=0): 
+            newProduct = WasiItem()
 
-        newProduct['product_name'] = product_name
-        newProduct['product_price'] = product_price
-        newProduct['product_discount'] = product_discount
-        newProduct['product_image'] = product_image
-        newProduct['detailed_url'] = detailed_url
+            newProduct['product_name'] = product_name
+            newProduct['product_price'] = product_price
+            newProduct['product_discount'] = product_discount
+            newProduct['product_image'] = product_image
+            newProduct['detailed_url'] = detailed_url
 
-        yield newProduct
+            yield newProduct
+              
+            
+        
+        
+        
